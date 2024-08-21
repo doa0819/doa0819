@@ -60,10 +60,10 @@
 
  <h1 align ="center">📞 Contact 📞</h1>
   <div align ="center"">
-        <a href="https://www.instagram.com/authority______">
+        <a href="">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
         </a>
-        <a href="mailto:h2odream@naver.com">
+        <a href="leedoa0819@gamil.com">
           <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
        </a>
 </div>
